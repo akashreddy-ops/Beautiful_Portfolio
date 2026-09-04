@@ -7,4 +7,4 @@ This project is a modern, responsive, and interactive portfolio website built us
 
 The main purpose of this portfolio is to showcase my:
 
-It includes:
+    - 👨‍💻 Programming skills
