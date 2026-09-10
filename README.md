@@ -194,4 +194,11 @@ The project contains the following Vite commands:
 npm run dev
 npm run build
 npm run preview
+```
 
+
+🎨 Tailwind CSS
+
+Tailwind CSS is used for styling and responsive design.
+
+The project uses Tailwind CSS 4 with the Vite integration.
