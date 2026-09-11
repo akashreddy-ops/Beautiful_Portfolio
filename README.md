@@ -202,3 +202,15 @@ npm run preview
 Tailwind CSS is used for styling and responsive design.
 
 The project uses Tailwind CSS 4 with the Vite integration.
+
+
+🧭 React Router
+
+React Router is used for navigation and routing.
+
+The application currently contains:
+
+Home route
+Not Found route
+
+The routing is configured using BrowserRouter, Routes, and Route.
