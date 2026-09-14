@@ -214,3 +214,5 @@ Home route
 Not Found route
 
 The routing is configured using BrowserRouter, Routes, and Route.
+# 🎯 Lucide React
+
