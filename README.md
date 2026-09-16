@@ -216,4 +216,9 @@ Not Found route
 The routing is configured using BrowserRouter, Routes, and Route.
 # 🎯 Lucide React
 Lucide React is used for modern icons throughout the interface.
+The application currently contains:
 
+Home route
+Not Found route
+
+The routing is configured using BrowserRouter, Routes, and Route.
