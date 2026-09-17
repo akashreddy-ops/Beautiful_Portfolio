@@ -216,9 +216,8 @@ Not Found route
 The routing is configured using BrowserRouter, Routes, and Route.
 # 🎯 Lucide React
 Lucide React is used for modern icons throughout the interface.
-The application currently contains:
+# 🔔 Toast Notifications
 
-Home route
-Not Found route
+The project uses a toast notification system for displaying small UI messages.
 
-The routing is configured using BrowserRouter, Routes, and Route.
+The application includes the Toaster component.
