@@ -221,3 +221,33 @@ Lucide React is used for modern icons throughout the interface.
 The project uses a toast notification system for displaying small UI messages.
 
 The application includes the Toaster component.
+
+# 📁 Project Structure
+```
+beautiful-portfolio/
+│
+├── public/
+│   └── ...
+│
+├── src/
+│   │
+│   ├── components/
+│   │   ├── ui/
+│   │   └── ...
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   └── NotFound.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
